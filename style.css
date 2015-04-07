@@ -1,0 +1,39 @@
+body {
+  padding: 0px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+    background-color: #EFF0FF;
+}
+
+
+section
+{
+   display: inline-block;   
+    border: 1px solid blue;
+    vertical-align: top;
+    margin-left: 5px;
+    height: 700px;
+    overflow: auto;
+}
+
+
+footer
+{
+    margin-top: 5px;
+    padding: 15px 0px;
+    position: relative;
+    bottom: 0px;
+    width: 100%;
+    border: 1px solid navy;
+    background-color:#729EBF;
+    color: #fff;
+    max-height: 60px;
+}
+
+aside
+{
+    display:inline-block;
+    border: 1px solid purple;
+    position: fixed;
+    right: 10px;
+    
+}
